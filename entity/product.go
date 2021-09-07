@@ -6,3 +6,6 @@ type Product struct {
 	Name string
 	ProductDetails
 }
+
+type ProductDetails struct {
+}
